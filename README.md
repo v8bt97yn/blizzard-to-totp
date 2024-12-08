@@ -1,4 +1,9 @@
-The app is a simple GUI that uses blizzards API to quickly convert your SSO Token into a TOTP. The app will enable an authenticator on the account, then use its response to retrieve your authenticators secret and convert it to base64 before finally printing the TOTP which can be used anywhere.
+The app is a simple GUI that uses blizzards API to quickly convert your SSO Token into a TOTP. 
+
+SSO -> Bearer token
+Bearer token -> new authenticator -> secret (hex)
+secret (hex) to secret (base64)
+done!
 
 ---
 
