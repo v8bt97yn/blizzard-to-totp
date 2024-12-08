@@ -8,8 +8,7 @@ note: I used "auto-py-to-exe" to convert the python script to exe for anybody wh
 
 ---
 
-1.  Log in to Battlenet
-2.  Remove any existing Authenticator on your account
+1.  Log in to Battlenet and remove any existing Authenticator on your account
 3.  Navigate to [account.battle.net/login/en/?ref=localhost](https://account.battle.net/login/en/?ref=localhost)
 4.  Copy your SSO Token from the pages URL (ex: US-a3c213213213b213b213b213b213c-123123123)
 5.  Paste your SSO token into the app and press run
