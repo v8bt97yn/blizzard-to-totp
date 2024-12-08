@@ -9,3 +9,7 @@ SSO -> Bearer token -> new authenticator -> secret (hex) -> secret (base64) -> T
 4.  Copy your SSO Token from the pages URL (ex: US-a3c213213213b213b213b213b213c-123123123)
 5.  Paste your SSO token into the app and press run
 6.  Copy the TOTP output and use it wherever you want
+
+---
+
+![app](https://github.com/user-attachments/assets/3d7e0863-e5d5-4145-981b-96b05b4edec1)
